@@ -2,6 +2,8 @@
 
 ## Overview
 
+For this project we will use machine learning to analyze the credit card dataset from LendingClub. We will use multiple techniques and models to have a better overall understanding of the predicting credit risk.
+
 ## Results
 
 ![chart](Resources/1.PNG)
