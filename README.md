@@ -62,3 +62,5 @@ For this project we will use machine learning to analyze the credit card dataset
 
 ## Summary
 
+After using 6 different techniques we can see that the there are some variation in the results. The first 4 produced similar results with balanced accuracy scores of only ~62%. When switching to a balanced random forest classifier our balanced accuracy goes up to 79%. The final technique used was Easy Ensemble Adaboost with a high score of 93% for the balanced accuracy. Recall is also the highest of all the techniques. High risk precision is still low, but the highest at 9%. 
+I would recommend using the Easy Ensemble Adaboost model because of this.
