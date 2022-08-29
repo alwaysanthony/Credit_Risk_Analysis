@@ -57,8 +57,8 @@ For this project we will use machine learning to analyze the credit card dataset
 
 ![chart](Resources/12.PNG)
 
-- The balanced accuracy score is 79%. 
-- Low risk precision is 100% while high risk is only 3%.
+- The balanced accuracy score is 93%. 
+- Low risk precision is 100% while high risk is only 9%.
 
 ## Summary
 
