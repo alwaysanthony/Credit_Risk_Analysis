@@ -20,7 +20,8 @@ The balanced accuracy score is 62%. Low risk precision is 100% while high risk i
 
 ![chart](Resources/4.PNG)
 
-The balanced accuracy score is 62%. Low risk precision is 100% while high risk is only 1%.
+-The balanced accuracy score is 62%. 
+-Low risk precision is 100% while high risk is only 1%.
 
 ### Undersampling CluseterCentroid
 
@@ -28,7 +29,8 @@ The balanced accuracy score is 62%. Low risk precision is 100% while high risk i
 
 ![chart](Resources/6.PNG)
 
-The balanced accuracy score is 62%. Low risk precision is 100% while high risk is only 1%.
+-The balanced accuracy score is 62%. 
+-Low risk precision is 100% while high risk is only 1%.
 
 ### SMOTEENN Combination Sampling
 
@@ -36,7 +38,8 @@ The balanced accuracy score is 62%. Low risk precision is 100% while high risk i
 
 ![chart](Resources/8.PNG)
 
-The balanced accuracy score is 79%. Low risk precision is 100% while high risk is only 3%.
+-The balanced accuracy score is 62%. 
+-Low risk precision is 100% while high risk is only 1%.
 
 ### Balanced Random Forest Classifier
 
@@ -44,7 +47,8 @@ The balanced accuracy score is 79%. Low risk precision is 100% while high risk i
 
 ![chart](Resources/10.PNG)
 
-The balanced accuracy score is 79%. Low risk precision is 100% while high risk is only 3%.
+-The balanced accuracy score is 79%. 
+-Low risk precision is 100% while high risk is only 3%.
 
 ### Easy Ensemble AdaBoost
 
@@ -52,7 +56,8 @@ The balanced accuracy score is 79%. Low risk precision is 100% while high risk i
 
 ![chart](Resources/12.PNG)
 
-The balanced accuracy score is 79%. Low risk precision is 100% while high risk is only 3%.
+-The balanced accuracy score is 79%. 
+-Low risk precision is 100% while high risk is only 3%.
 
 ## Summary
 
